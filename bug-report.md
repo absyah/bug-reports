@@ -35,3 +35,13 @@ Desktop:
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari] 
  - Version [e.g. 22]
+
+### Backtrace
+
+```
+Please copy paste the backtrace here if available
+```
+
+### Image
+
+Add any image that might be helpful to understand the problem
